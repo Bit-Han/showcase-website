@@ -2,7 +2,7 @@ import React from "react";
 
 const HeroSection: React.FC = () => {
 	return (
-		<section className="text-center p-8 bg-white text-black">
+		<section className="text-center p-8 bg-black text-white">
 			<h1 className="text-4xl font-bold">
 				Access your <span className="text-green-500">folders at any time</span>{" "}
 				with minimal hassle. Made for you.
